@@ -1,7 +1,7 @@
 ---
 name: Issue
 about: An issue
-project: My Project
+projects: My Project
 ---
 
 Hi
