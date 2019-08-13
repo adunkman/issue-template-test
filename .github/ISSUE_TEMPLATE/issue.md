@@ -2,7 +2,7 @@
 name: Issue
 about: An issue
 projects: 
- - adunkman/issue-template-test:My Project
+ - adunkman/issue-template-test:1
 ---
 
 Hi
